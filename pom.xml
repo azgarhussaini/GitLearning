@@ -10,8 +10,8 @@
     <description>Struts 2 Starter</description>
 
     <properties>
-        <struts2.version>2.5.5</struts2.version>
-        <log4j2.version>2.7</log4j2.version>
+        <struts2.version>2.5.14</struts2.version>
+        <log4j2.version>2.13.2</log4j2.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -74,7 +74,7 @@
         <dependency>
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
-            <version>1.3</version>
+            <version>1.3.3</version>
         </dependency>
 
         <!-- Logging -->
